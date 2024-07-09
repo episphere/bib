@@ -1,2 +1,2 @@
 # bib
-bibliography utilities
+Bibliography utilities
